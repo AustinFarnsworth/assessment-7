@@ -1,0 +1,47 @@
+Alternative Tools Research
+
+TravisCI
+
+Came across this CI and the documentaion was very straight forward. 
+Sign up and connecting to repos was real easy. I didn't use this feature
+but it looks like you can hook multiple repos at a time and it will build 
+when you push it to github. Tells you what to put in your yml file very 
+clearly which is key for a new devops. 
+
+I started with this page https://docs.travis-ci.com/ . And it give you an 
+option for a tutorial so i did that. Has a bunch of other great tools for 
+connnecting with other tools like Gitlab or switching different programming 
+languages. And even further reading more about builds, security, and databases. 
+
+Im not entirely sure how long the company has been around but it looks like 
+their first push to github was 4 years ago. That was like their code od conduct
+and ethics and such. But they have had changes 15 months ago so that makes me 
+belive that they are fairly active. They also have core values of openess and 
+collaboration which i like. 
+
+Pros 
+- Good Core values
+- Easy setup
+- Documentation very thorough
+
+
+
+Sentry
+
+Sentry looks like a great tool for error monitoring. It has been around for awhile 
+and is a fairly big company. Some of the features they have that i like are: the custom 
+queries, very readable dashboard, and how easy it is to see between multiple projects. 
+the graphs are very helpul. 
+
+I started with this documentation for javascript https://docs.sentry.io/platforms/javascript/ . 
+It is pretty straight forward and easy to switch to a different language. You do have to sign up 
+for a certain teir. I think there are 4. The first free developer one seems alright but the other 
+ones would be a little more pricey if you wanted to use it as a team. 
+
+Pros 
+- Big company with good track record
+- Very clean and readable dashboard
+- Good documentaion
+
+Cons 
+- Price

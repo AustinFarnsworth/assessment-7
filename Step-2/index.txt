@@ -1,0 +1,19 @@
+Runtime Analysis
+
+
+Array size               Unshift            Push
+extralargeArray          1.544 s            16.688 ms 
+largeArray               11.613 ms          1.029 ms
+mediumArray              448.093 μs         349.7 μs
+smallArray               170.691 μs         245.435 μs
+tinyArray                85.908 μs          191.36 μs
+
+
+
+
+
+It looks like the unshift method was faster for the first two then when you get 
+to the mediumArray push seems to be faster. so at that point push is faster for 
+the rest of the way. This would be that push would make it a lot better to scale with. 
+You are wanting to scale as fast and big as you can and push does it when you get 
+more data in your arrays. 
